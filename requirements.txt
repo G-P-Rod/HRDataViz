@@ -1,0 +1,4 @@
+# Python dependencies required to run this project.
+pandas==2.2.*
+openpyxl>=3.0.0
+reportlab>=3.3.0
